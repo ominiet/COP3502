@@ -1,0 +1,8 @@
+Graduate Student John Smith
+Student ID: 11111111
+Major: Computer Science
+Advisor: Kyla McMullen
+Received a score of 90 with 2 misspelled words:
+(1) esasy
+(2) agnry
+
